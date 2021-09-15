@@ -1,0 +1,54 @@
+body {
+    background-color: rgba(240, 248, 255, 0.89);
+}
+
+.nav-link:hover {
+    color: rgb(243, 227, 10) !important;
+}
+
+.active {
+    font-weight: bold !important;
+}
+
+#sidebar {
+    height: 100%;
+    position: fixed;
+}
+
+.img-thumbnail {
+    border-radius: 50% !important;
+}
+
+.card-img-top {
+    border-radius: 50% !important;
+    width: 7rem;
+}
+
+.menu_title {
+    font-weight: bold;
+}
+
+#profile-box {
+    background-image: linear-gradient(white, rgb(0, 110, 255)) !important;
+}
+
+.card {
+    background-image: linear-gradient(
+        rgb(215, 241, 240),
+        rgb(176, 241, 255),
+        rgb(71, 149, 250)
+    ) !important;
+    border-radius: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+#login_box {
+    border-radius: 20% !important;
+}
+
+#app-style {
+    vertical-align: middle;
+}
